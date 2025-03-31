@@ -1296,9 +1296,9 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "r": 0.5097338557243347,
-        "g": 0.04415087029337883,
-        "b": 0.5999999046325684,
+        "r": 0.0799785926938057,
+        "g": 0.4880889356136322,
+        "b": 0.9018867611885071,
         "a": 0.0
     },
     "isMainColor": false,
@@ -1849,8 +1849,8 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "r": 0.967443585395813,
-        "g": 0.7377358078956604,
+        "r": 0.7372549176216126,
+        "g": 0.8383142948150635,
         "b": 1.0,
         "a": 0.0
     },
@@ -2220,7 +2220,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Alpha",
     "m_StageCapability": 2,
-    "m_Value": 1.0,
+    "m_Value": 0.800000011920929,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
